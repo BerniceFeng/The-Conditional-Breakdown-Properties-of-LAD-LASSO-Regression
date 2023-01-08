@@ -10,7 +10,7 @@ It is known that regression based on least absolute deviations (LAD) has higher 
 
 ### Article
 
-The article can be accessed [here](./LAD_LASSO_Code.ipynb).
+The article can be accessed [here](./FengGiloniSimonoff.pdf).
 
 ### Presentation
 
@@ -18,6 +18,6 @@ The presentation can be accessed [here](./The_Conditional_Breakdown_Properties_o
 
 ### Code
 
-The code can be accessed [here](./FengGiloniSimonoff.pdf).
+The code can be accessed [here](./LAD_LASSO_Code.ipynb).
 
 
